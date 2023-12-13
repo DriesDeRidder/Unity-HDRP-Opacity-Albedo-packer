@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class OpacityAlbedoTexturePacker : EditorWindow
 {
- private Texture2D albedoTexture2D;
+    private Texture2D albedoTexture2D;
     private Texture2D opacityTexture2D;
 
     [MenuItem("Tools/Opacity Albedo Packer")]
